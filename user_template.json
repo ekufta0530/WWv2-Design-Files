@@ -19,7 +19,7 @@
     "feiePeriodStartDate": "2024-05-23T19:48:59.002+00:00",
     "currently_abroad": true,
     "country_of_residence": "HK",
-    "time_zone_preference": [-7, -6, -5],
+    "time_zone_preference_off_gmt": [-7, -6, -5],
     "stays": [
         {
             "country_name": "croatia",
